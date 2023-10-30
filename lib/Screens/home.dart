@@ -406,7 +406,7 @@ class _HomeState extends State<Home> {
                             style: TextStyle(
                                 color: Colors.white,
                                 fontWeight: FontWeight.w900,
-                                fontSize: 25)),
+                                fontSize: 15)),
                       ),
                     ),
                     GestureDetector(
@@ -424,7 +424,7 @@ class _HomeState extends State<Home> {
                             style: TextStyle(
                                 color: Colors.white,
                                 fontWeight: FontWeight.w900,
-                                fontSize: 25)),
+                                fontSize: 15)),
                       ),
                     ),
                     Container(
@@ -438,7 +438,7 @@ class _HomeState extends State<Home> {
                             style: TextStyle(
                                 color: Color.fromARGB(255, 0, 0, 0),
                                 fontWeight: FontWeight.w900,
-                                fontSize: 25)),
+                                fontSize: 15)),
                       ),
                     ),
                   ],
