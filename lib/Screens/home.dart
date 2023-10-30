@@ -338,7 +338,7 @@ class _HomeState extends State<Home> {
         appBar: AppBar(
           title: Text(BigText,
               style: TextStyle(
-                  color: Colors.yellow,
+                  color: Colors.white,
                   fontSize: 30,
                   fontWeight: FontWeight.w800)),
           centerTitle: true,
