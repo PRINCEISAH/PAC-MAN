@@ -1,6 +1,6 @@
 # pac_man
 
-A new Flutter project.
+A simple Pac-Man Game Created in flutter
 
 ## Getting Started
 
